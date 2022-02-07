@@ -500,7 +500,7 @@ async def change_server_lockdown(ctx):
     server_in_lockdown.append("in_lockdown")
     no_change = ["873465171132166144", "873466841912213534", "875000973221838849", "875421282286592081", "875426157242220555", "875598583846559794", "878999525258330112", "883673096429654057", "904368580328579123", "904367921218863174", "914446001987801169", "905107008028565574", "904389665816207380", "904314846781268009", "904019281249959957"]
     for channel in ctx.guild.channels:
-      if str(channel.name.id) in no_change:
+      if str(channel.id) in no_change:
           continue
       else:
         overwrite = channel.overwrites_for(ctx.guild.default_role)
@@ -524,7 +524,7 @@ async def server_lockdown(ctx):
     server_in_lockdown.remove(server_in_lockdown[0])
     server_in_lockdown.append("no-lockdown")
     for channel in ctx.guild.channels:
-        if str(channel.name.id) in no_change:
+        if str(channel.id) in no_change:
           continue
         else:
           overwrite = channel.overwrites_for(ctx.guild.default_role)
