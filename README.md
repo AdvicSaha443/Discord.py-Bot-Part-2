@@ -1,11 +1,25 @@
-# Discord.py Bot Part-2
+#Discord.py Multi Purpose Bot
+##So yea this is just a bot which i created for my server because i was getting bored
 
-This is the code of my custom bot for my discord Server
+---
 
-and if you want you can copy the code and make changes :)
+You can use this bot's code as ever you want and make changed to it 
+You can also tell if there is any bug or something in the code
 
-this bot is coded by me only btw
+[CLick here For Bot's Webite](https://a.advic.repl.co)
+[Click here For Replit](https://replit.com)
+[Click here For Bot's Server](https://a.advic.repl.co/invite)
+[Click here for My Youtube Channel](https://www.youtube.com/channel/UCLz9R6SAQYRSA6uWRjN_PzQ)
 
-if you want your own discord bot contact me on discord - AdvicSaha#4896
+---
 
-*this is the lastest version of my bot*
+These Types Of Commands are available in this bot:
+* Music
+* Fun
+* Economy
+* Leveling System
+* Moderation
+
+---
+
+>My Discord - AdvicSaha#4896
