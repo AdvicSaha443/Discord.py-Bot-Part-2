@@ -3,7 +3,7 @@
 
 ---
 
-You can use this bot's code as ever you want and make changed to it
+You can use this bot's code as ever you want and make changes to it
 
 You can also tell if there is any bug or something in the code
 
