@@ -1,5 +1,5 @@
 # Discord.py Multi Purpose Bot
-## So yea this is just a bot which i created for my server because i was getting bored
+## So yea this is just a bot which i created for my server because i was bored
 
 ---
 
